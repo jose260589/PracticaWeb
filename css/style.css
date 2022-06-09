@@ -1,0 +1,19 @@
+html{
+    background-color: yellow;
+}
+
+body{
+    color: black;
+}
+
+#titulo {
+    color: cornflowerblue;
+}
+
+.post {
+    color: tomato;
+}
+
+p.post {
+    color: tomato;
+}
